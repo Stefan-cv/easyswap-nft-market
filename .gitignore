@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+out/
+bin/
+build/
+EasySwapContract/artifacts/
+EasySwapContract/cache/
+EasySwapContract/typechain-types/
+EasySwapContract/.env
+EasySwapSync/EasySwapSync
+*.log
+.DS_Store
